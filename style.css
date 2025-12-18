@@ -1,0 +1,102 @@
+@font-face {
+    font-family: neu;
+    src: url(./NeueMachina-Light_gwWCZxVuQl.ttf);
+}
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    
+}
+
+html,body{
+    height: 100%;
+    width: 100%;
+    font-family: neu;
+}
+
+#main{
+    text-align: center;
+    background-color: rgb(23, 35, 44);
+    color: azure;
+    font-size: larger;
+    height: 200px;
+    padding: 50px 0px;
+}
+
+h2{
+    padding-bottom: 20px;
+    padding-top: 20px;
+}
+#about{
+    text-align: center;
+    background-color: bisque;
+    padding: 50px;
+    margin:30px 100px;
+}
+
+#educ{
+    text-align: center;
+    background-color: rgb(189, 240, 249);
+    padding: 40px;
+    margin: 40px 100px;
+}
+
+.ed{
+    background-color:aliceblue;
+    padding: 15px;
+    width: 600px;
+    margin: 10px;
+    margin-left: 320px;
+}
+#skill{
+    text-align: center;
+    background-color: bisque;
+    padding: 40px;
+    margin: 40px 100px;
+}
+
+.issue{
+    background-color:aliceblue;
+    padding: 15px;
+    width: 600px;
+    margin: 10px;
+    margin-left: 320px;
+}
+
+#projects{
+    text-align: center;
+    background-color: rgb(230, 204, 254);
+    padding: 50px;
+    margin: 40px 100px;
+    
+}
+
+.reject{
+    background-color:aliceblue;
+    padding: 15px;
+    width: 600px;
+    margin: 10px;
+    margin-left: 320px;
+}
+
+#contact{
+    text-align: center;
+    background-color: rgb(189, 240, 249);
+    padding: 50px;
+    margin: 40px 100px;
+}
+.never{
+    background-color:aliceblue;
+    padding: 15px;
+    width: 600px;
+    margin: 10px;
+    margin-left: 320px;
+}
+
+#fotter{
+    text-align: center;
+    background-color: rgb(23, 35, 44);
+    padding: 40px;
+}
