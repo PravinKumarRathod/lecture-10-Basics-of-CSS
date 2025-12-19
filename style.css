@@ -46,9 +46,8 @@ h2{
 .ed{
     background-color:aliceblue;
     padding: 15px;
-    width: 600px;
     margin: 10px;
-    margin-left: 320px;
+
 }
 #skill{
     text-align: center;
@@ -60,9 +59,8 @@ h2{
 .issue{
     background-color:aliceblue;
     padding: 15px;
-    width: 600px;
     margin: 10px;
-    margin-left: 320px;
+
 }
 
 #projects{
@@ -76,9 +74,8 @@ h2{
 .reject{
     background-color:aliceblue;
     padding: 15px;
-    width: 600px;
     margin: 10px;
-    margin-left: 320px;
+
 }
 
 #contact{
@@ -90,9 +87,7 @@ h2{
 .never{
     background-color:aliceblue;
     padding: 15px;
-    width: 600px;
     margin: 10px;
-    margin-left: 320px;
 }
 
 #fotter{
